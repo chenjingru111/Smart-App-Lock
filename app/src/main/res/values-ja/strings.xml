@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="icon_camouflage">アイコン迷彩</string>
+    <string name="app_lock">アプリロック</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">アプリを簡単にロックし、プライベートな写真やビデオを隠す</string>
+    <string name="welcome_to_smart_app_lock">Smart App Lockへようこそ</string>
+    <string name="set_unlock_pattern">アンロックパターンを設定する</string>
+    <string name="connect_at_least_4_dots">最低でも4つの点を結びつける</string>
+    <string name="settings">設定</string>
+    <string name="turning_it_off_will_disable_app_lock">オフにするとアプリロックが無効になります</string>
+    <string name="change_password">パスワードの変更</string>
+    <string name="are_you_sure_you_want_to_lock">ロックしますか？</string>
+</resources>

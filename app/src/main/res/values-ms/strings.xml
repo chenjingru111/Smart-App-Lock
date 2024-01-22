@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="icon_camouflage">camouflage ikon</string>
+    <string name="app_lock">Kunci Aplikasi</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">Mudah mengunci aplikasi, menyembunyikan foto dan video peribadi anda</string>
+    <string name="welcome_to_smart_app_lock">Selamat datang ke Smart App Lock</string>
+    <string name="set_unlock_pattern">Tetapkan corak pembukaan kunci</string>
+    <string name="connect_at_least_4_dots">Sambungkan sekurang-kurangnya 4 titik</string>
+    <string name="settings">Tetapan</string>
+    <string name="turning_it_off_will_disable_app_lock">Mematikan ia akan melumpuhkan Kunci Aplikasi</string>
+    <string name="change_password">Tukar kata laluan</string>
+    <string name="are_you_sure_you_want_to_lock">Adakah anda pasti ingin mengunci?</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="icon_camouflage">아이콘 가장</string>
+    <string name="app_lock">앱 잠금</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">앱을 쉽게 잠그고 개인 사진과 비디오를 숨기세요</string>
+    <string name="welcome_to_smart_app_lock">스마트 앱 잠금에 오신 것을 환영합니다</string>
+    <string name="set_unlock_pattern">잠금 해제 패턴 설정하기</string>
+    <string name="connect_at_least_4_dots">적어도 4개의 점을 연결하세요</string>
+    <string name="settings">설정</string>
+    <string name="turning_it_off_will_disable_app_lock">끄면 앱 잠금 기능이 비활성화됩니다</string>
+    <string name="change_password">비밀번호 변경</string>
+    <string name="are_you_sure_you_want_to_lock">잠금을 하시겠습니까?</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="icon_camouflage">Symbolkamouflage</string>
+    <string name="app_lock">App-lås</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">Lås enkelt appar, dölj dina privata foton och videor</string>
+    <string name="welcome_to_smart_app_lock">Välkommen till Smart App Lock</string>
+    <string name="set_unlock_pattern">Ställ in upplåsningsmönster</string>
+    <string name="connect_at_least_4_dots">Anslut minst 4 punkter</string>
+    <string name="settings">Inställningar</string>
+    <string name="turning_it_off_will_disable_app_lock">Om du stänger av det kommer App Lock att inaktiveras</string>
+    <string name="change_password">Ändra lösenord</string>
+    <string name="are_you_sure_you_want_to_lock">Är du säker på att du vill låsa?</string>
+</resources>

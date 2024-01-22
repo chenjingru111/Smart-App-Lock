@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="icon_camouflage">图标伪装</string>
+    <string name="app_lock">应用锁</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">轻松锁定应用，隐藏私密照片和视频</string>
+    <string name="welcome_to_smart_app_lock">欢迎使用智能应用锁</string>
+    <string name="set_unlock_pattern">设置解锁模式</string>
+    <string name="connect_at_least_4_dots">至少连接四个点</string>
+    <string name="settings">设置</string>
+    <string name="turning_it_off_will_disable_app_lock">关闭它将禁用应用锁</string>
+    <string name="change_password">更改密码</string>
+    <string name="are_you_sure_you_want_to_lock">你确定要锁定吗?</string>
+</resources>

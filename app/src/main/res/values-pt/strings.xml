@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="icon_camouflage">camuflagem de ícone</string>
+    <string name="app_lock">bloqueio de aplicativo</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">Bloqueie facilmente aplicativos, esconda suas fotos e vídeos privados</string>
+    <string name="welcome_to_smart_app_lock">Bem-vindo ao Smart App Lock</string>
+    <string name="set_unlock_pattern">Definir padrão de desbloqueio</string>
+    <string name="connect_at_least_4_dots">Conecte pelo menos 4 pontos</string>
+    <string name="settings">Configurações</string>
+    <string name="turning_it_off_will_disable_app_lock">Desativar isso desativará o Bloqueio de Aplicativo</string>
+    <string name="change_password">Alterar senha</string>
+    <string name="are_you_sure_you_want_to_lock">Adakah anda pasti ingin mengunci?</string>
+</resources>

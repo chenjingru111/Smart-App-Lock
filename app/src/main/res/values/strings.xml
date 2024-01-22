@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Smart App Lock</string>
+    <string name="icon_camouflage">Icon camouflage</string>
+    <string name="app_lock">App Lock</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">Easily lock apps, hide your private photos and videos</string>
+    <string name="welcome_to_smart_app_lock">Welcome to Smart App Lock</string>
+    <string name="set_unlock_pattern">Set unlock pattern</string>
+    <string name="connect_at_least_4_dots">Connect at least 4 dots</string>
+    <string name="settings">Settings</string>
+    <string name="turning_it_off_will_disable_app_lock">Turning it off will disable App Lock</string>
+    <string name="change_password">Change password</string>
+    <string name="are_you_sure_you_want_to_lock">Are you sure you want to lock?</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="icon_camouflage">camouflage d\'icône</string>
+    <string name="app_lock">verrouillage d\'application</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">Verrouillez facilement les applications, cachez vos photos et vidéos privées</string>
+    <string name="welcome_to_smart_app_lock">Bienvenue dans Smart App Lock</string>
+    <string name="set_unlock_pattern">Définir le schéma de déverrouillage</string>
+    <string name="connect_at_least_4_dots">Reliez au moins 4 points</string>
+    <string name="settings">Paramètres</string>
+    <string name="turning_it_off_will_disable_app_lock">La désactivation de cette fonction désactivera le verrouillage d\'application</string>
+    <string name="change_password">Changer de mot de passe</string>
+    <string name="are_you_sure_you_want_to_lock">Êtes-vous sûr de vouloir verrouiller?</string>
+</resources>

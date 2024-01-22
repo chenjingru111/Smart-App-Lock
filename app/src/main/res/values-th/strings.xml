@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="icon_camouflage">ลายซ่อนเร้นไอคอน</string>
+    <string name="app_lock">ล็อกแอป</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">ล็อกแอปและซ่อนรูปภาพและวิดีโอส่วนตัวของคุณได้อย่างง่ายดาย</string>
+    <string name="welcome_to_smart_app_lock">ยินดีต้อนรับสู่สมาร์ทแอปล็อก</string>
+    <string name="set_unlock_pattern">ตั้งรูปแบบการปลดล็อก</string>
+    <string name="connect_at_least_4_dots">เชื่อมต่อจุดอย่างน้อย 4 จุด</string>
+    <string name="settings">การตั้งค่า</string>
+    <string name="turning_it_off_will_disable_app_lock">การปิดการใช้งานจะทำให้เกิดปัญหาการล็อคแอป</string>
+    <string name="change_password">เปลี่ยนรหัสผ่าน</string>
+    <string name="are_you_sure_you_want_to_lock">คุณแน่ใจว่าต้องการล็อกหรือไม่?</string>
+</resources>

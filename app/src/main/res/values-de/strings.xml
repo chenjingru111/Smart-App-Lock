@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="icon_camouflage">Symbol-Tarnung</string>
+    <string name="app_lock">App-Sperre</string>
+    <string name="easily_lock_apps_hide_your_private_photos_and_videos">Apps einfach sperren, verstecken Sie Ihre privaten Fotos und Videos</string>
+    <string name="welcome_to_smart_app_lock">Willkommen bei Smart App Lock</string>
+    <string name="set_unlock_pattern">Entsperrmuster festlegen</string>
+    <string name="connect_at_least_4_dots">Verbinde mindestens 4 Punkte</string>
+    <string name="settings">Einstellungen</string>
+    <string name="turning_it_off_will_disable_app_lock">Wenn Sie es ausschalten, wird die App-Sperre deaktiviert</string>
+    <string name="change_password">Passwort ändern</string>
+    <string name="are_you_sure_you_want_to_lock">Sind Sie sicher, dass Sie sperren möchten?</string>
+</resources>
